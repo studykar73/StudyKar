@@ -1,0 +1,6 @@
+{
+  "name": "StudyKar.pk",
+  "description": "Pakistani entrance exam preparation platform for BCAT, MDCAT, ECAT, and IoBM featuring video lectures, chapter modules, and progress tracking in a high-energy Neo-Brutalism style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
